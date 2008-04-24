@@ -1,5 +1,6 @@
 require 'acts_as_cached/config'
 require 'acts_as_cached/cache_methods'
+require 'acts_as_cached/cache_associations'
 require 'acts_as_cached/fragment_cache'
 require 'acts_as_cached/benchmarking' 
 require 'acts_as_cached/disabled'
